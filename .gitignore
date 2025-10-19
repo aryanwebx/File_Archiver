@@ -1,0 +1,44 @@
+# Build directories
+build/
+out/
+bin/
+lib/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Compiled objects
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.dylib
+*.so
+
+# Executables
+file_archiver
+file_archiver.exe
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Test coverage
+*.gcda
+*.gcno
+*.gcov
+
+# Documentation
+docs/html/
+docs/latex/
